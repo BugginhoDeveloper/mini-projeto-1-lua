@@ -34,7 +34,7 @@ Crie um aplicativo **(console ou como você preferir)**, que gerencie a lista de
 
 > - Todos os dados deverão ser armazenados em um ou mais arquivos de texto.
 > - Não existe prazo limite para conclusão, a ideia é que você tenha uma experiência diferente.
-> - Você poderá tirar dúvida no [Slack do Desafio][4]
+> - Você poderá tirar suas dúvidas no [Slack do Desafio][4]
 > - Ao finalizar o seu projeto, publique-o no Github e envie o link para bugginhodeveloper@gmail.com
 
   [1]: http://www.lua.org/
