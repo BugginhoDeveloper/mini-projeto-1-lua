@@ -37,6 +37,20 @@ Crie um aplicativo **(console ou como você preferir)**, que gerencie a lista de
 > - Você poderá tirar suas dúvidas no [Slack do Desafio][4]
 > - Ao finalizar o seu projeto, publique-o no Github e envie o link para bugginhodeveloper@gmail.com
 
+----------
+
+Quem já enviou?
+--------
+
+Confira abaixo uma lista com todos os amiguinhos que já concluíram o desafio:
+
+- Evandro Araújo (https://github.com/evsar3/bugginho-desafio-lua)
+- Felipe Oliveira (https://github.com/FelipeOFF/CadastroClienteLua)
+- Henrique Campos (https://github.com/henry701/projeto-bugginho-LUA)
+- Murilo Venturoso (https://github.com/muriloventuroso/lista-convidados)
+- Marcell Guilherme (https://github.com/Mazuh/BugginhoDeveloper-Mini-Projects)
+- Luis Felipe Bueno (https://github.com/luisfbueno/guests-manager)
+
   [1]: http://www.lua.org/
   [2]: http://lua-users.org/wiki/LuaUses
   [3]: http://www.lua.org/manual/5.2/pt/
