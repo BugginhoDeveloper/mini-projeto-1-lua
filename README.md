@@ -51,6 +51,7 @@ Confira abaixo uma lista com todos os amiguinhos que já concluíram o desafio:
 - Marcell Guilherme (https://github.com/Mazuh/BugginhoDeveloper-Mini-Projects)
 - Luis Felipe Bueno (https://github.com/luisfbueno/guests-manager)
 - Eudes Lemos (https://github.com/eudesll/learning-projects/tree/master/bugginho/mp01-lua)
+- Yuri Sales (https://github.com/yuriscosta/BugginhoDeveloper-Mini-Projetos/tree/master/Lua)
 
   [1]: http://www.lua.org/
   [2]: http://lua-users.org/wiki/LuaUses
